@@ -4,4 +4,9 @@ The Calculator app, developed in Kotlin, offers basic functions like addition, s
 
 ![Demo](./Screenshot.png)
 
+## Install
+
+- `git clone https://github.com/thanh-ph2021/CalcLT-Kotlin-Simple-Calculator.git`
+- `To open project in Android Studio -> Run`
+
 
